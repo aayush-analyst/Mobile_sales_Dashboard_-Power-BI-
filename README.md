@@ -40,8 +40,7 @@ This project analyzes **mobile sales performance** across multiple dimensions su
 
 ---
 
-## 🎥 Demo Video
- <video src="Video.mp4" controls width="700"></video>
+
 
 ---
 
